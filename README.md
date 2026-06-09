@@ -29,21 +29,22 @@ Insurance customers often struggle to track the progress of their claims and und
 - Improved usability through UI refinements
 
 ## Screenshots
+## Screenshots
 
-### Login Screen
-![Login Screen](claim_login_screen.png)
+<h3>Login Screen</h3>
+<img src="claim_login_screen.png" width="250">
 
-### Policy Dashboard
-![Policy Dashboard](claim_policy_dashboard.png)
+<h3>Policy Dashboard</h3>
+<img src="claim_policy_dashboard.png" width="250">
 
-### Track Claim
-![Track Claim](claim_track_claim.png)
+<h3>Track Claim</h3>
+<img src="claim_track_claim.png" width="250">
 
-### Claim Timeline
-![Claim Timeline](claim_timeline.png)
+<h3>Claim Timeline</h3>
+<img src="claim_timeline.png" width="250">
 
-### Document Viewing
-![Document Viewing](claim_document_viewing.png)
+<h3>Document Viewing</h3>
+<img src="claim_document_viewing.png" width="250">
 
 ## Learning Outcomes
 
